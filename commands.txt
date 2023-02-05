@@ -1,0 +1,10 @@
+exit;0;Exit A2LReader and return to command prompt;;
+help;1;Help for A2LReader commands. Syntax: help <command>;;
+open;2;Open a new A2L file. Syntax: \\nopen <fileName> : with <fileName> the complete file path\\nopen /gui : open a dialog box in order to choose an A2L file;No filepath entered for open command. Type open <fileName> to open a new A2L file.;
+clist;3;Show the commands available;;
+vers;4;Show the current version of A2LReader;;
+cls;5;Clear the console screen;;
+win;6;A2LReader TKinter test window;;
+labels;7;Print the labels (parameters) in the A2L file;;
+meas;7;Print the measurements in the A2L file;;
+code;8;Change the encoding of A2L file;No encoding found. Type code <encoding> to change the current encoding for parsing A2L files.;

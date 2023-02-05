@@ -1,0 +1,8 @@
+CHARACTERISTIC;description;type;address;
+AXIS_PTS;description;address;
+MEASUREMENT;description;type;conversion;
+COMPU_METHOD;description;type;format;unit;
+COMPU_VTAB;description;type;
+COMPU_VTAB_RANGE;description;
+UNIT;description;unit;type;
+RECORD_LAYOUT;
